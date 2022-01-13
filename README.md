@@ -29,7 +29,7 @@ In the  **purchases.csv** file we have mostly these same fields:
 - **Venue ID**: Unique ID of the venue where the purchase was made.
 
 ## Your Task
-Customer retention can be described as a way to look at how engaged and loyal customers are, whether they continue using the service after their first purchase. In this task we want to see how well Wolt manages to retain its customers month after month based on the monthly cohort based on when users made their first ever purchase.
+Customer retention can be described as a way to look at how engaged and loyal customers are, that is, whether they continue using the service after their first purchase. In this task we want to see how well Wolt manages to retain its customers month after month based on when users made their first ever purchase.
 
 ### Technical assessment
 Create visualizations showing the monthly customer retention per product line to communicate the following:
@@ -42,10 +42,12 @@ Regarding the visualizations, opt for any tool you wish to use in order to visua
 
 ### Thinking about the next steps
 In addition, answer the following:
-- What assumptions about the data have you made when creating your retention charts?
+- What assumptions about the data did you make when creating your retention charts?
 - Did you encounter any problems in the data?
 - Which additional data sources or business information do you think could be used to improve your solution?
 
 ### Deliverables to share with us
 1. Put together your visualizations and answers together in English into a presentation,  Jupyter Notebook or similar format.
 2. Share your SQL script (mention the dialect used),  which you used to arrive at your results
+
+When your solution is ready, put it as a zip file to Google Drive, Dropbox, OneDrive (or similar). Remember to check permissions! If we cannot access the file, we cannot review your solution. Please don’t store your solution in a public GitHub repository during the application period.
